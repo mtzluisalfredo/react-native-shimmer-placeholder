@@ -18,8 +18,7 @@
   "license": "MIT",
   "main": "./lib/ShimmerPlaceholder.js",
   "peerDependencies": {
-    "prop-types": ">=15.6.0",
-    "react-native-linear-gradient": ">=2.4.0"
+    "prop-types": ">=15.6.0"
   },
   "repository": {
     "type": "git",
